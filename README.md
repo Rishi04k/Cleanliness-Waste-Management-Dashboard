@@ -4,7 +4,7 @@
 
 ## 📌 Features
 
-Overall Cleanliness Metrics
+1. Overall Cleanliness Metrics
 
 Cleanliness Score
 
@@ -14,11 +14,11 @@ Municipal Efficiency Score
 
 Average Recycling Rate (%)
 
-Top Clean Cities Ranking
+2. Top Clean Cities Ranking
 
 Comparative cleanliness scores of major cities.
 
-Waste Disposal Methods
+3. Waste Disposal Methods
 
 Composting
 
@@ -28,19 +28,19 @@ Landfill
 
 Recycling
 
-Geospatial Insights
+4. Geospatial Insights
 
 Interactive landfill locations mapped across India.
 
-Cost Analysis
+5. Cost Analysis
 
 Cost of waste management per ton across cities.
 
-Awareness Impact
+6. Awareness Impact
 
 Recycling rate improvements linked to awareness campaigns.
 
-Waste Type Breakdown
+7. Waste Type Breakdown
 
 Organic, Plastic, E-Waste, Construction, and Hazardous waste generated daily.
 
