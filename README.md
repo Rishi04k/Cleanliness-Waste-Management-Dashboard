@@ -6,43 +6,43 @@
 
 1. Overall Cleanliness Metrics
 
-Cleanliness Score
+- Cleanliness Score
 
-Waste Generated (Tons/Day)
+- Waste Generated (Tons/Day)
 
-Municipal Efficiency Score
+- Municipal Efficiency Score
 
-Average Recycling Rate (%)
+- Average Recycling Rate (%)
 
 2. Top Clean Cities Ranking
 
-Comparative cleanliness scores of major cities.
+- Comparative cleanliness scores of major cities.
 
 3. Waste Disposal Methods
 
-Composting
+- Composting
 
-Incineration
+- Incineration
 
-Landfill
+- Landfill
 
-Recycling
+- Recycling
 
 4. Geospatial Insights
 
-Interactive landfill locations mapped across India.
+- Interactive landfill locations mapped across India.
 
 5. Cost Analysis
 
-Cost of waste management per ton across cities.
+- Cost of waste management per ton across cities.
 
 6. Awareness Impact
 
-Recycling rate improvements linked to awareness campaigns.
+- Recycling rate improvements linked to awareness campaigns.
 
 7. Waste Type Breakdown
 
-Organic, Plastic, E-Waste, Construction, and Hazardous waste generated daily.
+- Organic, Plastic, E-Waste, Construction, and Hazardous waste generated daily.
 
 ## 🛠️ Tech Stack
 
@@ -55,18 +55,18 @@ Geospatial Mapping – Integrated with OpenStreetMap
 
 ## 📊 Use Cases
 
-Municipal corporations tracking waste management efficiency.
+- Municipal corporations tracking waste management efficiency.
 
-Policy makers evaluating recycling & awareness campaign effectiveness.
+- Policy makers evaluating recycling & awareness campaign effectiveness.
 
-Researchers analyzing waste generation patterns by type.
+- Researchers analyzing waste generation patterns by type.
 
-NGOs working on sustainable waste disposal.
+- NGOs working on sustainable waste disposal.
 
 ## 🌱 Future Enhancements
 
-Live API integration with municipal waste data.
+- Live API integration with municipal waste data.
 
-Predictive modeling for waste generation trends.
+- Predictive modeling for waste generation trends.
 
-Citizen feedback and complaint analysis integration.
+- Citizen feedback and complaint analysis integration.
