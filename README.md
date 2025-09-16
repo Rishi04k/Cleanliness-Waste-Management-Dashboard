@@ -2,6 +2,10 @@
 
 🚮📊 A Power BI dashboard for monitoring and analyzing cleanliness, waste generation, disposal methods, and recycling efficiency across Indian cities.
 
+## 📷 Dashboard Screenshot
+<img width="1309" height="729" alt="image" src="https://github.com/user-attachments/assets/2d440ac4-887f-4045-8d08-e45da72ad048" />
+
+
 ## 📌 Features
 
 1. Overall Cleanliness Metrics
